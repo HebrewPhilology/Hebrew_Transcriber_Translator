@@ -1,4 +1,4 @@
-#Hebrew Transcriber & Translator
+# Hebrew Transcriber & Translator
 
 The purpose of this little code is to automate the following two processes:
 1. to transcribe a PDF article in Hebrew into a TXT file using Tesseract.
